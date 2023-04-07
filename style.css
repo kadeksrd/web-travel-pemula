@@ -1,0 +1,36 @@
+.nav-link{
+    margin-right: 1rem;
+    color: #ffb55f
+
+}
+
+.active{
+    color: #FF8A00 !important; 
+    font-weight: 600;
+}
+
+.hero-text h1{
+    font-size: 48px;
+    font-weight: 600;
+    color: #FF8A00;
+    font-family: 'Poppins' , sans-serif;
+}
+
+.hero-text p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #aaaaaa;
+}
+
+.hero-text button{
+    background-color: #FF8A00;
+    color: #fff;
+    padding: 12px 38px;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.hero-text button:hover{
+    background-color: #FF8A00;
+}
